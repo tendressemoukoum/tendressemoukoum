@@ -1,6 +1,6 @@
 #  Salut, moi c'est Tendresse !!!
 
-Étudiante en **L3 Data Science** à ECES, j'apprends la science des données en réalisant des projets scolaires et projets personnels basées sur des faits réels. 
+Étudiante en **L3 Data Science** à ECES, j'apprends la science des données en réalisant des projets scolaires et projets personnels basés sur des faits réels. 
 
 ##  Compétences
 - **Langages** : Python, SQL, R
