@@ -1,16 +1,18 @@
-## Hi there 👋
+#  Salut, moi c'est Tendresse !!!
 
-<!--
-**tendressemoukoum/tendressemoukoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en **L3 Data Science** à ECES, j'apprends la science des données en réalisant des projets scolaires et projets personnels basées sur des faits réels. 
 
-Here are some ideas to get you started:
+##  Compétences
+- **Langages** : Python, SQL, R
+- **Data & BI** : Power BI, Neo4J
+- **IA** : machine learning, NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Projets
+- **E-COMMERCE-VENTES** : plateforme mettant en relation vendeurs et acheteurs
+
+##  En ce moment
+J'approfondis mes connaissances en data science et dans tous les domaines de l'informatique qui m'aideront à exceller.
+
+##  Me contacter
+[LinkedIn](https://www.linkedin.com/in/benie-moukouama-99262a445)
+tendressemoukoum@gmail.com 
