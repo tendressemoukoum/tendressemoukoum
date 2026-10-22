@@ -11,7 +11,7 @@
 - **E-COMMERCE-VENTES** : plateforme mettant en relation vendeurs et acheteurs
 
 ##  En ce moment
-J'approfondis mes connaissances en data science et dans tous les domaines de l'informatique qui m'aideront à exceller.
+J'approfondis mes connaissances en data science et tous les domaines de l'informatique qui m'aideront à exceller.
 
 ##  Me contacter
 [LinkedIn](https://www.linkedin.com/in/benie-moukouama-99262a445)
